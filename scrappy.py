@@ -11,6 +11,7 @@ import webbrowser
 import os 
 
 os.system('clear')
+
 tool_banner = pyfiglet.figlet_format("SCRAPPY")
 color_tool_banner = f"{Fore.CYAN}{tool_banner}{Style.RESET_ALL}"
 print(color_tool_banner)
