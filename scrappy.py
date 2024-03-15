@@ -1,3 +1,4 @@
+
 # 		< copyright 2024 cyberabhigit >
 #		github.com tool  by cyberabhi
 # 		it is used to extract data from url
@@ -12,7 +13,7 @@ import os
 
 os.system('clear')
 
-tool_banner = pyfiglet.figlet_format("SCRAPPY")
+tool_banner = pyfiglet.figlet_format("INSTALLER")
 color_tool_banner = f"{Fore.CYAN}{tool_banner}{Style.RESET_ALL}"
 print(color_tool_banner)
 print("------------------------------")
@@ -32,8 +33,9 @@ tool_banner = pyfiglet.figlet_format("SCRAPPY")
 color_tool_banner = f"{Fore.CYAN}{tool_banner}{Style.RESET_ALL}"
 print(color_tool_banner)
 print("------------------------------")
-print("SCRAP ANY URL BY SCRAPPY | CYBERABHI")
+print("SCRAP ANY URL BY SCRAPPYI")
 print("SCRAPPY version 2.0 release")
+print("[+] MADE BY CYBERABHI-GIT")
 print("-------------------------------")
 
 print("1) Scrap Url")
