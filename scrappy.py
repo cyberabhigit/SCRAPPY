@@ -18,7 +18,7 @@ color_tool_banner = f"{Fore.CYAN}{tool_banner}{Style.RESET_ALL}"
 print(color_tool_banner)
 print("------------------------------")
 print("SCRAP ANY URL BY SCRAPPY | CYBERABHI")
-print("SCRAPPY version 2.0 release")
+print("SCRAPPY version 2.1")
 print("-------------------------------")
 
 user_key = input("Enter your key: ")
