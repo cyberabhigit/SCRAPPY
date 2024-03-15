@@ -1,13 +1,12 @@
 INSTALLATION
-————————————
+____________
 
-$ git clone https://gitHub.com/cyberabhigit/SCRAPPY
+$ sudo apt update
+
+$ git clone https://github.com/cyberabhigit/SCRAPPY
 
 $ cd SCRAPPY
 
-$ ls
+$ python install_requirements.py
 
 $ python scrappy.py
-
-
-
